@@ -7,7 +7,6 @@
 - 👀 I’m interested in volunteering in tech and Hackthons
 - 🌱 I’m currently learning German
 - 👨‍💻 I’m currently working in Diconium Berlin
-- 🇩🇪 I’m currently learning German
 - 👍 Gaming 🎮 Cycling 🚴🏻‍♂️ Travelling 🛩 
 
 
