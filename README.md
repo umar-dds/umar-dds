@@ -4,9 +4,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-dds&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 👀 I’m interested in volunteering in tech and Hackthons
+- 👀 I’m interested in volunteering in tech and Hackathons
 - 🌱 I’m currently learning German
-- 👨‍💻 I’m currently working in Diconium Berlin
+- 👨‍💻 I’m currently working as DevOps expert in Berlin
 - 👍 Gaming 🎮 Cycling 🚴🏻‍♂️ Travelling 🛩 
 
 
